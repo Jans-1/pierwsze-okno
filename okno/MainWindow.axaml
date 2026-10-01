@@ -7,5 +7,5 @@
         WindowStartupLocation="CenterScreen"
         WindowState = "Maximized"
         Title="Pierwsze okno">
-    Własny tekst w oknie.
+    <TextBlock Text="Własny tekst w oknie."/>
 </Window>
