@@ -7,5 +7,5 @@
         WindowStartupLocation="CenterScreen"
         WindowState = "Maximized"
         Title="Pierwsze okno">
-    <TextBlock FontSize="32" FontWeight="Bold" FontStyle="Italic" Text="Własny tekst w oknie."/>
+    <TextBlock FontSize="32" FontWeight="Bold" FontStyle="Italic" Foreground="#C05621" Text="Własny tekst w oknie."/>
 </Window>
