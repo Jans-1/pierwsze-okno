@@ -7,5 +7,5 @@
         WindowStartupLocation="CenterScreen"
         WindowState = "Maximized"
         Title="Pierwsze okno">
-    Welcome to Avalonia!
+    Własny tekst w oknie.
 </Window>
